@@ -1,6 +1,6 @@
 ![Alt Text](https://github.com/lann87/cloud_infra_eng_ntu_coursework_alanp/blob/main/.misc/ntu_logo.png)  
 
-# Assignment 2.3 - Cloud Native Deployment - Containerization II  
+# DevSecOps - Assignment 3.5 - Cloud Native Deployment - Containerization II  
 
 ## Individual assignment - Create ECS & ECR via Console/Terraform
 
